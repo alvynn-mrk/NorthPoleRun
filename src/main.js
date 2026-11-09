@@ -1,3 +1,5 @@
+import{ Start } from './scenes/Start.js';
+
 const config = {
     type: Phaser.AUTO,
     title: "North Pole Immigrant",
